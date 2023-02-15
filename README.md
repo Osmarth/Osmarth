@@ -22,4 +22,4 @@
 | 16:30-17:00 | Receso                           | Receso                | Receso                                          | Receso                    | Receso                |   |   |   |   |
 | 17:00-17:50 | Matemáticas IV                   | Física II             | Física II                                       | Física II                 | Física II             |   |   |   |   |
 | 17:55-18:45 |                                  | Matemáticas IV        |                                                 | Orientación Educativa IV  |                       |   |   |   |   |
-|             |                                  |                       |                                                 |                           |                       |   |   |   |   |
+|             |                                  |                       |                                                 |                           |               
